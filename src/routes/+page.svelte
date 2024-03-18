@@ -27,6 +27,6 @@
     </label>
 </div>
 
-<div class="container lg:px-96 px-4 py-52 lg:py-72">
+<div class="container lg:px-96 px-4 py-48 lg:py-72">
     <Mockup />
 </div>
