@@ -25,7 +25,7 @@
     </label>
 </div>
 
-<div class="container lg:px-96 px-4 py-40 lg:py-72">
+<div class="container lg:px-96 px-4 py-40 lg:py-64">
     <h1 class="py-2">Find Mahasiswa</h1>
     <SearchForm />
 </div>
