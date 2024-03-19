@@ -3,7 +3,7 @@
 <script>
     // Import the SearchForm component
     import '../app.css';
-    import Mockup from './Mockup.svelte';
+    import Mockup from '../components/Mockup.svelte';
 </script>
 
 <div class="flex justify-end px-5 py-5">
